@@ -21,7 +21,7 @@ const Summaries = () => {
           <div className="section-content">
             <img
               src={GraphPropertyUpdate}
-              alt="Graph Property Update Image"
+              alt={GraphPropertyUpdate}
               className="section-content-image"
             />
             <div className="section-content-text">
@@ -62,7 +62,7 @@ const Summaries = () => {
         <div>
           <img
             src={Goal_1}
-            alt="Goal 1 image"
+            alt={Goal_1}
             className="section-content-image_Goal1"
           />
           <div className="section-content-text">
@@ -87,7 +87,7 @@ const Summaries = () => {
           <div className="section-content">
             <img
               src={Goal_2_1}
-              alt="Goal 2 image"
+              alt={Goal_2_1}
               className="section-content-image_Goal2"
             />
             <div className="section-content-text">
@@ -139,7 +139,7 @@ const Summaries = () => {
             </div>
             <img
               src={Goal_2_2}
-              alt="Goal 2 image"
+              alt={Goal_2_2}
               className="section-content-image_Goal2"
             />
           </div>

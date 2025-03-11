@@ -2,25 +2,25 @@ import React from "react";
 import IntellectualMerit from "../../asserts/IntellectualMerit.png";
 import MainHeading from "../MainHeading/MainHeading";
 import "./Home.css";
-import Carousel from "../Carousel/Carousel";
+// import Carousel from "../Carousel/Carousel";
 
-const carouselItems = [
-  {
-    image: require("../../asserts/IntellectualMerit.png"),
-    title: "Slide 1",
-    description: "This is the description for Slide 1",
-  },
-  {
-    image: require("../../asserts/IntellectualMerit.png"),
-    title: "Slide 2",
-    description: "This is the description for Slide 2",
-  },
-  {
-    image: require("../../asserts/IntellectualMerit.png"),
-    title: "Slide 3",
-    description: "This is the description for Slide 3",
-  },
-];
+// const carouselItems = [
+//   {
+//     image: require("../../asserts/IntellectualMerit.png"),
+//     title: "Slide 1",
+//     description: "This is the description for Slide 1",
+//   },
+//   {
+//     image: require("../../asserts/IntellectualMerit.png"),
+//     title: "Slide 2",
+//     description: "This is the description for Slide 2",
+//   },
+//   {
+//     image: require("../../asserts/IntellectualMerit.png"),
+//     title: "Slide 3",
+//     description: "This is the description for Slide 3",
+//   },
+// ];
 const Home = () => {
   return (
     <div className="home-container">
@@ -39,7 +39,11 @@ const Home = () => {
           </p>
           <h3>
             Software Link: &nbsp;
-            <a href="https://github.com/CANDYNSF/CANDYforAll" target="_blank">
+            <a
+              href="https://github.com/CANDYNSF/CANDYforAll"
+              target="_blank"
+              rel="noreferrer"
+            >
               click here
             </a>
           </h3>

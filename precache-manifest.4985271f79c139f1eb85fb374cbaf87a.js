@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b6c44a8bbedbc5d505719160ea96e077",
+    "revision": "6fc06c4cbaacc849108f27f66db5d32c",
     "url": "/Kishan-Kumar-Zalavadia/Candy.git/index.html"
   },
   {
-    "revision": "e3aada0f2fed71f98732",
+    "revision": "1b0a69f6a710f00af54f",
     "url": "/Kishan-Kumar-Zalavadia/Candy.git/static/css/main.d624ee96.chunk.css"
   },
   {
-    "revision": "eb6e8c99a29fcbfb172f",
-    "url": "/Kishan-Kumar-Zalavadia/Candy.git/static/js/2.e053ec9e.chunk.js"
+    "revision": "7cc1aa8611ebd3b3ab72",
+    "url": "/Kishan-Kumar-Zalavadia/Candy.git/static/js/2.25fb68f6.chunk.js"
   },
   {
     "revision": "6a2a939c6c472481a460",
     "url": "/Kishan-Kumar-Zalavadia/Candy.git/static/js/3.5a11cc32.chunk.js"
   },
   {
-    "revision": "e3aada0f2fed71f98732",
-    "url": "/Kishan-Kumar-Zalavadia/Candy.git/static/js/main.377804da.chunk.js"
+    "revision": "1b0a69f6a710f00af54f",
+    "url": "/Kishan-Kumar-Zalavadia/Candy.git/static/js/main.d0737115.chunk.js"
   },
   {
     "revision": "732b81e1d1dca2ea435c",

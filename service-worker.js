@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Kishan-Kumar-Zalavadia/Candy.git/precache-manifest.82be95f0629db1b39f8b2bfd3c9e67f9.js"
+  "/Kishan-Kumar-Zalavadia/Candy.git/precache-manifest.4985271f79c139f1eb85fb374cbaf87a.js"
 );
 
 self.addEventListener('message', (event) => {
